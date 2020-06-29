@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AppBar</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="note">Заметка</string>
+    <string name="data_save">Данные сохранены</string>
+    <string name="title_note">Записная книжка</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_checkBox">Взаимоисключающие CheckBox</string>
+    <string name="title_spiner">Spinner «Страны-города-улицы»</string>
+    <string name="title_calendar">CalendarView «Сроки задачи»</string>
+    <string name="inputMoney">Ввод денег</string>
+    <string name="inputInfo">Информация об оплате</string>
+    <string name="btnOK">OK</string>
+    <string name="bankCardChkBx">С банковской карты</string>
+    <string name="mobilePhoneChkBx">С мобильного телефона</string>
+    <string name="cashAddressChkBx">Наличными по адресу</string>
+    <string name="showAddress">Показать адрес</string>
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+    <string name="StartDate">Дата-время старта задачи</string>
+    <string name="EndDate">Дата-время окончания задачи</string>
+</resources>
